@@ -7,7 +7,7 @@
 
 - ✍ I'm a student of: [Cao Dang FPT Polytechnic Da Nang](https://caodang.fpt.edu.vn)!
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning **Mobile Developer.**
 
 <br />
 
