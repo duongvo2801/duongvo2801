@@ -5,8 +5,6 @@
 </p>
 
 
-- ✍ I'm a student of: [Cao Dang FPT Polytechnic Da Nang](https://caodang.fpt.edu.vn).
-
 - 🌱 I’m currently learning **Mobile Developer.**
 
 <br />
@@ -19,7 +17,7 @@
   <a href="https://www.linkedin.com/in/vvduong2801" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href="https://www.facebook.com/vovanduong2801" alt="Facebook">
+  <a href="#" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
   <a href="https://github.com/duongvo2801" alt="Github">
